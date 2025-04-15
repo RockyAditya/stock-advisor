@@ -1,0 +1,7 @@
+Flask==2.2.5
+vaderSentiment==3.3.2
+yfinance
+pandas
+numpy
+matplotlib
+gunicorn

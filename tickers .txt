@@ -1,0 +1,22 @@
+Popular Stock Ticker Symbols:
+Apple – AAPL
+Microsoft – MSFT
+Tesla – TSLA
+Amazon – AMZN
+Google (Alphabet) – GOOGL
+Facebook (Meta) – META
+NVIDIA – NVDA
+Intel – INTC
+Netflix – NFLX
+Adobe – ADBE
+Walmart – WMT
+Coca-Cola – KO
+Disney – DIS
+Berkshire Hathaway – BRK.B
+Ford – F
+Nike – NKE
+Johnson & Johnson – JNJ
+ExxonMobil – XOM
+Pfizer – PFE
+
+General Electric – GE
